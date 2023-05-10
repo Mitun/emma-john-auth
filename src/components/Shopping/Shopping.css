@@ -1,0 +1,24 @@
+.shopping {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  position: relative;
+  z-index: 1;
+}
+.productContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-left: 45px;
+  margin-top: 120px;
+  gap: 40px;
+  /* position: absolute; */
+}
+.cartContainer {
+  background-color: rgba(255, 153, 0, 0.3);
+}
+.btnOrderReview {
+  cursor: pointer;
+}
+.btnOrderReview:hover {
+  background-color: #d44f11;
+  color: #fff;
+}

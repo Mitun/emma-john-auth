@@ -1,0 +1,13 @@
+.cart {
+  position: sticky;
+  top: 50px;
+  padding: 30px 25px;
+}
+.btnClear {
+  cursor: pointer;
+  margin-right: 10px;
+}
+.btnClear:hover {
+  background-color: #d44f11;
+  color: #fff;
+}

@@ -1,0 +1,35 @@
+.headerStyle {
+  background-color: #1c2b35;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 100px;
+  /* padding-right: 90px; */
+  position: sticky;
+  top: 0px;
+  z-index: 2;
+}
+
+.headerStyle a {
+  color: #ffffff;
+  text-decoration: none;
+  font: 17px;
+  margin-left: 32px;
+}
+.headerStyle a:hover {
+  color: orange;
+}
+.userInHeader {
+  margin-left: 100px;
+}
+.spanEmail {
+  /* margin-left: 10px; */
+  margin-right: 20px;
+  color: #ffffff;
+}
+.spans {
+  display: flex;
+  /* margin-left: 250px; */
+  padding-left: 250px;
+}

@@ -1,0 +1,15 @@
+.orderContainer {
+  margin-left: 100px;
+  /* margin-top: 80px; */
+}
+.orderContainer img {
+  width: 91px;
+  border-radius: 6px;
+  margin: 7px;
+}
+.cartOfContainer {
+  margin-left: -350px;
+  background: rgba(255, 153, 0, 0.3);
+  margin-right: 200px;
+  margin-top: 20px;
+}
